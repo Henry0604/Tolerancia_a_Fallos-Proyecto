@@ -17,6 +17,7 @@ Nuestro servicio está enfocado a las ventas online, pensamos en ofrecer al púb
 ¿Como puedes desplegarlo?
 
 Para desplegar nuestra aplicación tenemos dos formas:
+
 Forma 1
 
 Para esta forma puedes descargar el repositorio completo, descomprimes los archivos y de ahí en tu Visual Studio Code realizas los siguientes comandos:
