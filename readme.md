@@ -20,6 +20,7 @@ Para desplegar nuestra aplicación tenemos dos formas:
 Forma 1
 
 Para esta forma puedes descargar el repositorio completo, descomprimes los archivos y de ahí en tu Visual Studio Code realizas los siguientes comandos:
+
 *Contruir Imagen
 - docker build -t [nombre_imagen]
 
@@ -32,6 +33,7 @@ Para esta forma puedes descargar el repositorio completo, descomprimes los archi
 Forma 2
 
 Esta forma la consideramos un poco más simple ya que no es necesario construir la imagen, sino que puedes agregarla a tu Docker Desktop mediante lo siguiente:
+
 *Descargar Imagen
 - docker pull aaravos/reactshop
 
